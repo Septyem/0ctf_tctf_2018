@@ -1,0 +1,3 @@
+Try our new proof-of-work demo!
+
+nc 192.168.201.11 10001
