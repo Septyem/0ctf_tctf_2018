@@ -1,0 +1,1 @@
+FLAG='flag{_h0p3_you_3Nj0y_p1aying_wIth_QuadraticResidues___}'
